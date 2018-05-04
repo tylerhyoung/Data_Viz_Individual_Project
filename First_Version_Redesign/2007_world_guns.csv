@@ -1,0 +1,186 @@
+,Country,HDI,Country/Territory,ISO code,Source,% of homicides by firearm,Number of homicides by firearm,Homicides_per_100,Rank by rate of ownership,Firearms_per_100,Average total all civilian firearms,HDI_rank
+0,Albania,0.713,Albania,AL,CTS,65.9,56.0,1.76,70.0,8.6,270000.0,71.0
+1,Algeria,0.6970000000000001,Algeria,DZ,CTS,4.8,20.0,0.06,78.0,7.6,1900000.0,82.0
+2,Angola,0.46799999999999997,Angola,AO,,,,,34.0,17.3,2800000.0,125.0
+3,Argentina,0.792,Argentina,AR,Ministry of Justice,52.0,1198.0,3.02,62.0,10.2,3950000.0,41.0
+4,Armenia,0.721,Armenia,AM,CTS,13.0,9.0,0.29,52.0,12.5,380000.0,68.0
+5,Australia,0.9209999999999999,Australia,AU,NSO,11.5,30.0,0.14,42.0,15.0,3050000.0,2.0
+6,Austria,0.8640000000000001,Austria,AT,CTS,29.5,18.0,0.22,14.0,30.4,2500000.0,23.0
+7,Azerbaijan,0.7190000000000001,Azerbaijan,AZ,CTS,6.5,11.0,0.12,115.0,3.5,290000.0,69.0
+8,Bahamas,0.7909999999999999,Bahamas,BS,CTS,61.2,52.0,15.37,98.0,5.3,17000.0,42.0
+9,Bahrain,0.815,Bahrain,BH,CTS,0.0,0.0,0.0,18.0,24.8,180000.0,33.0
+10,Bangladesh,0.52,Bangladesh,BD,National police,43.6,1456.0,1.12,169.0,0.5,700000.0,111.0
+11,Barbados,0.775,Barbados,BB,CTS,40.0,8.0,2.99,76.0,7.8,21000.0,46.0
+12,Belarus,0.755,Belarus,BY,CTS,2.5,12.0,0.12,79.0,7.3,710000.0,55.0
+13,Belgium,0.8740000000000001,Belgium,BE,WHO-MDB,39.5,70.0,0.68,34.0,17.2,1800000.0,20.0
+14,Belize,0.6990000000000001,Belize,BZ,National police,52.3,68.0,21.82,62.0,10.0,29000.0,80.0
+15,Benin,0.444,Benin,BJ,,,,,137.0,1.4,120000.0,131.0
+16,Bhutan,,Bhutan,BT,,,,,115.0,3.5,22000.0,
+17,Bosnia and Herzegovina,0.71,Bosnia and Herzegovina,BA,CTS,24.7,18.0,0.48,34.0,17.3,675000.0,72.0
+18,Botswana,0.6459999999999999,Botswana,BW,,,,,102.0,4.9,87000.0,93.0
+19,Brazil,0.7040000000000001,Brazil,BR,Ministry of Health,70.8,34678.0,18.1,75.0,8.0,14840000.0,74.0
+20,Bulgaria,0.7609999999999999,Bulgaria,BG,CTS,29.7,51.0,0.67,88.0,6.2,480000.0,52.0
+21,Burkina Faso,0.345,Burkina Faso,BF,,,,,149.0,1.1,148000.0,148.0
+22,Burundi,0.319,Burundi,BI,,,,,145.0,1.2,200000.0,151.0
+23,Cambodia,0.511,Cambodia,KH,NGO,36.7,187.0,1.44,109.0,4.3,600000.0,114.0
+24,Cameroon,0.466,Cameroon,CM,,,,,119.0,2.8,340000.0,126.0
+25,Canada,0.897,Canada,CA,CTS,32.0,173.0,0.51,13.0,30.8,9950000.0,9.0
+26,Central African Republic,0.33799999999999997,Central African Republic,CF,,,,,153.0,1.0,40000.0,149.0
+27,Chad,0.33799999999999997,Chad,TD,,,,,149.0,1.1,109000.0,149.0
+28,Chile,0.804,Chile,CL,WHO-MDB,37.3,353.0,2.16,59.0,10.7,1750000.0,38.0
+29,China,0.672,China,CN,,,,,102.0,4.9,40000000.0,87.0
+30,Colombia,0.6829999999999999,Colombia,CO,National police,81.1,12539.0,27.09,91.0,5.9,2700000.0,85.0
+31,Comoros,0.461,Comoros,KM,,,,,127.0,1.8,11000.0,128.0
+32,Congo,0.527,Congo,CG,,,,,122.0,2.7,100000.0,110.0
+33,Costa Rica,0.74,Costa Rica,CR,CTS,57.3,201.0,4.59,64.0,9.9,430000.0,59.0
+34,Croatia,0.8,Croatia,HR,CTS,34.7,17.0,0.39,26.0,21.7,950000.0,40.0
+35,Cuba,0.7709999999999999,Cuba,CU,WHO-MDB,4.4,27.0,0.24,104.0,4.8,545000.0,48.0
+36,Cyprus,0.8440000000000001,Cyprus,CY,CTS,26.3,5.0,0.46,6.0,36.4,275000.0,27.0
+37,Czech Republic,0.856,Czech Republic,CZ,CTS,11.0,20.0,0.19,38.0,16.3,1600000.0,24.0
+38,Denmark,0.9059999999999999,Denmark,DK,CTS,31.9,15.0,0.27,54.0,12.0,650000.0,5.0
+39,Djibouti,0.42700000000000005,Djibouti,DJ,,,,,119.0,2.8,22000.0,136.0
+40,Dominican Republic,0.6920000000000001,Dominican Republic,DO,SES/National police,65.5,1618.0,16.3,99.0,5.1,450000.0,83.0
+41,Ecuador,0.698,Ecuador,EC,CTS/SES,68.7,1790.0,12.73,142.0,1.3,370000.0,81.0
+42,Egypt,0.6509999999999999,Egypt,EG,CTS,69.1,453.0,0.57,115.0,3.5,1900000.0,91.0
+43,El Salvador,0.659,El Salvador,SV,CTS/OCAVI,76.9,2446.0,39.9,92.0,5.8,400000.0,88.0
+44,Equatorial Guinea,0.5920000000000001,Equatorial Guinea,GQ,,,,,29.0,19.9,100000.0,103.0
+45,Eritrea,0.406,Eritrea,ER,,,,,169.0,0.5,20000.0,139.0
+46,Estonia,0.835,Estonia,EE,WHO-MDB,3.9,3.0,0.24,65.0,9.2,123000.0,28.0
+47,Ethiopia,0.37799999999999995,Ethiopia,ET,,,,,174.0,0.4,320000.0,143.0
+48,Fiji,0.7,Fiji,FJ,,,,,169.0,0.5,4000.0,77.0
+49,Finland,0.8759999999999999,Finland,FI,CTS,19.8,24.0,0.45,4.0,45.3,2400000.0,19.0
+50,France,0.877,France,FR,WHO-MDB,9.6,35.0,0.06,12.0,31.2,19000000.0,17.0
+51,Gabon,0.6509999999999999,Gabon,GA,,,,,46.0,14.0,190000.0,91.0
+52,Gambia,0.426,Gambia,GM,,,,,157.0,0.8,123000.0,137.0
+53,Georgia,0.735,Georgia,GE,CTS,13.3,24.0,0.55,79.0,7.3,330000.0,63.0
+54,Germany,0.903,Germany,DE,CTS/National police,26.3,158.0,0.19,15.0,30.3,25000000.0,8.0
+55,Ghana,0.53,Ghana,GH,,,,,174.0,0.4,80000.0,109.0
+56,Greece,0.853,Greece,GR,WHO-MDB,34.9,29.0,0.26,23.0,22.5,2500000.0,26.0
+57,Grenada,,Grenada,GD,CTS,0.0,0.0,0.0,,,,
+58,Guatemala,0.589,Guatemala,GT,CTS/National police,84.0,5009.0,34.81,49.0,13.1,1650000.0,105.0
+59,Guinea,0.371,Guinea,GN,,,,,145.0,1.2,110000.0,145.0
+60,Guinea-Bissau,0.39799999999999996,Guinea-Bissau,GW,,,,,129.0,1.6,25000.0,141.0
+61,Guyana,0.618,Guyana,GY,WHO-MDB,61.3,85.0,11.46,45.0,14.6,110000.0,99.0
+62,Haiti,0.462,Haiti,HT,,,,,164.0,0.6,190000.0,127.0
+63,Honduras,0.597,Honduras,HN,National police/OCAVI,83.4,5201.0,68.43,88.0,6.2,500000.0,102.0
+64,Hungary,0.812,Hungary,HU,CTS,5.0,7.0,0.07,93.0,5.5,560000.0,37.0
+65,Iceland,0.892,Iceland,IS,CTS,0.0,0.0,0.0,15.0,30.3,90000.0,13.0
+66,India,0.556,India,IN,CTS,7.6,3093.0,0.26,110.0,4.2,46000000.0,108.0
+67,Indonesia,0.6409999999999999,Indonesia,ID,,,,,169.0,0.5,1000000.0,95.0
+68,Iraq,0.638,Iraq,IQ,,,,,8.0,34.2,9750000.0,97.0
+69,Ireland,0.9079999999999999,Ireland,IE,CTS,42.0,21.0,0.48,70.0,8.6,360000.0,4.0
+70,Israel,0.877,Israel,IL,WHO-MDB,11.7,6.0,0.09,79.0,7.3,500000.0,17.0
+71,Italy,0.866,Italy,IT,NSO,66.7,417.0,0.71,55.0,11.9,7000000.0,22.0
+72,Jamaica,0.718,Jamaica,JM,CTS/National police,75.6,1080.0,39.4,74.0,8.1,215000.0,70.0
+73,Japan,0.88,Japan,JP,WHO-MDB,1.8,11.0,0.01,164.0,0.6,710000.0,15.0
+74,Jordan,0.7390000000000001,Jordan,JO,CTS,38.8,26.0,0.49,58.0,11.5,630000.0,61.0
+75,Kazakhstan,0.758,Kazakhstan,KZ,CTS,12.5,210.0,1.34,142.0,1.3,200000.0,53.0
+76,Kenya,0.506,Kenya,KE,,,,,86.0,6.4,740000.0,115.0
+77,Kuwait,0.787,Kuwait,KW,,,,,18.0,24.8,630000.0,43.0
+78,Kyrgyzstan,0.624,Kyrgyzstan,KG,CTS,8.3,28.0,0.54,156.0,0.9,45000.0,98.0
+79,Latvia,0.8190000000000001,Latvia,LV,CTS,4.6,5.0,0.22,32.0,19.0,280000.0,32.0
+80,Lebanon,0.74,Lebanon,LB,National police,36.5,31.0,0.76,28.0,21.0,750000.0,59.0
+81,Lesotho,0.447,Lesotho,LS,,,,,122.0,2.7,47000.0,130.0
+82,Liberia,0.39399999999999996,Liberia,LR,UN-PKO,13.2,17.0,0.43,129.0,1.6,51000.0,142.0
+83,Libya,0.757,Libya,LY,,,,,40.0,15.5,900000.0,54.0
+84,Liechtenstein,0.893,Liechtenstein,LI,CTS,100.0,1.0,2.82,,,,12.0
+85,Lithuania,0.82,Lithuania,LT,CTS,2.5,6.0,0.18,160.0,0.7,135000.0,31.0
+86,Luxembourg,0.887,Luxembourg,LU,CTS,42.9,3.0,0.62,41.0,15.3,70000.0,14.0
+87,Madagascar,0.491,Madagascar,MG,,,,,157.0,0.8,150000.0,119.0
+88,Malawi,0.4,Malawi,MW,,,,,160.0,0.7,92000.0,140.0
+89,Malaysia,0.747,Malaysia,MY,WHO-MDB,13.4,64.0,0.24,133.0,1.5,370000.0,58.0
+90,Maldives,0.6409999999999999,Maldives,MV,CTS,62.5,5.0,1.63,85.0,6.5,21000.0,95.0
+91,Mali,0.36,Mali,ML,,,,,149.0,1.1,143000.0,147.0
+92,Malta,0.813,Malta,MT,CTS,0.0,0.0,0.0,55.0,11.9,48000.0,34.0
+93,Mauritania,0.475,Mauritania,MR,,,,,129.0,1.6,50000.0,123.0
+94,Mauritius,0.728,Mauritius,MU,CTS,2.0,1.0,0.1,44.0,14.7,180000.0,67.0
+95,Mexico,0.735,Mexico,MX,NSO/CTS,54.9,11309.0,9.97,42.0,15.0,15500000.0,63.0
+96,Mongolia,0.6729999999999999,Mongolia,MN,CTS,1.4,3.0,0.11,126.0,1.9,50000.0,86.0
+97,Montenegro,0.774,Montenegro,ME,,,,,21.0,23.1,150000.0,47.0
+98,Morocco,0.589,Morocco,MA,,,,,101.0,5.0,1500000.0,105.0
+99,Mozambique,0.37200000000000005,Mozambique,MZ,,,,,99.0,5.1,1000000.0,144.0
+100,Myanmar,0.493,Myanmar,MM,,,,,111.0,4.0,2000000.0,117.0
+101,Namibia,0.589,Namibia,,,,,,51.0,12.6,260000.0,105.0
+102,Nepal,0.49200000000000005,Nepal,NP,CTS,13.3,84.0,0.3,159.0,0.8,205000.0,118.0
+103,Netherlands,0.905,Netherlands,NL,NSO,30.7,55.0,0.33,112.0,3.9,510000.0,6.0
+104,New Zealand,0.894,New Zealand,NZ,CTS,13.5,7.0,0.16,22.0,22.6,925000.0,11.0
+105,Nicaragua,0.607,Nicaragua,NI,National police,42.1,338.0,5.92,77.0,7.7,395000.0,101.0
+106,Niger,0.298,Niger,NE,,,,,160.0,0.7,93000.0,152.0
+107,Nigeria,0.48100000000000004,Nigeria,NG,,,,,133.0,1.5,2000000.0,121.0
+108,Norway,0.9359999999999999,Norway,NO,WHO-HFA,8.1,2.0,0.05,11.0,31.3,1400000.0,1.0
+109,Oman,0.765,Oman,OM,,,,,17.0,25.4,650000.0,51.0
+110,Pakistan,0.513,Pakistan,PK,,,,,57.0,11.6,18000000.0,113.0
+111,Panama,0.75,Panama,PA,Ministry of Justice,75.0,569.0,16.18,26.0,21.7,700000.0,56.0
+112,Papua New Guinea,0.469,Papua New Guinea,PG,,,,,145.0,1.2,71000.0,124.0
+113,Paraguay,0.654,Paraguay,PY,CTS/SES,56.1,466.0,7.35,37.0,17.0,1000000.0,90.0
+114,Peru,0.7,Peru,PE,CTS/SES,50.8,757.0,2.63,33.0,18.8,750000.0,77.0
+115,Philippines,0.655,Philippines,PH,WHO-MDB,49.9,7349.0,8.93,105.0,4.7,3900000.0,89.0
+116,Poland,0.813,Poland,PL,CTS,7.1,35.0,0.09,142.0,1.3,510000.0,34.0
+117,Portugal,0.804,Portugal,PT,CTS,33.8,44.0,0.41,72.0,8.5,900000.0,38.0
+118,Qatar,0.825,Qatar,QA,CTS,16.7,1.0,0.14,31.0,19.2,520100.0,30.0
+119,Romania,0.78,Romania,RO,CTS,1.3,5.0,0.02,160.0,0.7,160000.0,44.0
+120,Rwanda,0.43799999999999994,Rwanda,RW,,,,,164.0,0.6,58000.0,134.0
+121,Saint Kitts and Nevis,,Saint Kitts and Nevis,KN,National police,85.0,17.0,32.44,,,,
+122,Saint Vincent and the Grenadines,0.7040000000000001,Saint Vincent and the Grenadines,VC,CTS,30.0,6.0,5.49,,,,74.0
+123,Saudi Arabia,0.779,Saudi Arabia,SA,,,,,7.0,35.0,6000000.0,45.0
+124,Senegal,0.435,Senegal,SN,,,,,125.0,2.0,230000.0,135.0
+125,Serbia,0.7490000000000001,Serbia,RS,CTS,33.1,45.0,0.46,5.0,37.8,3050000.0,57.0
+126,Seychelles,0.7390000000000001,Seychelles,SC,,,,,96.0,5.4,4600.0,61.0
+127,Sierra Leone,0.36700000000000005,Sierra Leone,SL,CTS,87.7,128.0,2.28,164.0,0.6,34000.0,146.0
+128,Singapore,0.88,Singapore,SG,CTS,5.9,1.0,0.02,169.0,0.5,22000.0,15.0
+129,Slovakia,0.813,Slovakia,SK,CTS,11.2,10.0,0.18,73.0,8.3,450000.0,34.0
+130,Slovenia,0.8690000000000001,Slovenia,SI,CTS,15.4,2.0,0.1,47.0,13.5,270000.0,21.0
+131,Solomon Islands,0.489,Solomon Islands,SB,CTS,0.0,0.0,0.0,174.0,0.4,1800.0,120.0
+132,South Africa,0.616,South Africa,ZA,National police,45.0,8319.0,17.03,50.0,12.7,5950000.0,100.0
+133,Spain,0.8540000000000001,Spain,ES,CTS,21.8,90.0,0.2,61.0,10.4,4500000.0,25.0
+134,Sri Lanka,0.731,Sri Lanka,LK,CTS,21.1,291.0,1.48,133.0,1.5,300000.0,65.0
+135,Sudan,0.444,Sudan,SD,,,,,93.0,5.5,2000000.0,131.0
+136,Suriname,0.691,Suriname,SR,,,,,48.0,13.4,60000.0,84.0
+137,Swaziland,0.514,Swaziland,SZ,,,,,86.0,6.4,72000.0,112.0
+138,Sweden,0.897,Sweden,SE,CTS,33.9,37.0,0.41,10.0,31.6,2800000.0,9.0
+139,Switzerland,0.914,Switzerland,CH,CTS,72.2,57.0,0.77,3.0,45.7,3400000.0,3.0
+140,Tajikistan,0.5920000000000001,Tajikistan,TJ,CTS,15.6,15.0,0.22,153.0,1.0,65000.0,103.0
+141,Thailand,0.7,Thailand,TH,,,,,39.0,15.6,10000000.0,77.0
+142,Togo,0.441,Togo,TG,,,,,153.0,1.0,60000.0,133.0
+143,Trinidad and Tobago,0.767,Trinidad and Tobago,TT,CTS,72.1,365.0,27.31,129.0,1.6,21000.0,50.0
+144,Tunisia,0.701,Tunisia,TN,,,,,178.0,0.1,9000.0,76.0
+145,Turkey,0.705,Turkey,TR,CTS,16.9,535.0,0.77,52.0,12.5,9000000.0,73.0
+146,Turkmenistan,,Turkmenistan,TM,CTS,2.4,5.0,0.1,114.0,3.8,180000.0,
+147,Uganda,0.45299999999999996,Uganda,UG,CTS/National police,10.5,280.0,0.87,137.0,1.4,400000.0,129.0
+148,Ukraine,0.73,Ukraine,UA,CTS,4.5,100.0,0.22,84.0,6.6,3100000.0,66.0
+149,United Arab Emirates,0.8290000000000001,United Arab Emirates,AE,,,,,24.0,22.1,1000000.0,29.0
+150,United States,0.905,United States,US,CTS,60.0,9146.0,2.97,1.0,88.8,270000000.0,6.0
+151,Uruguay,0.77,Uruguay,UY,CTS,46.5,93.0,2.8,9.0,31.8,1100000.0,49.0
+152,Uzbekistan,0.644,Uzbekistan,UZ,,,,,133.0,1.5,1200000.0,94.0
+153,Yemen,0.48,Yemen,YE,,,,,2.0,54.8,11500000.0,122.0
+154,Zambia,0.504,Zambia,ZM,National police,11.7,28.0,0.35,68.0,8.9,230000.0,116.0
+155,Zimbabwe,0.42100000000000004,Zimbabwe,ZW,CTS,65.6,598.0,4.78,106.0,4.4,400000.0,138.0
+156,,,Anguilla,AI,WHO-MDB,24.0,1.0,7.14,,,,
+157,,,Bermuda,BM,CTS,0.0,0.0,0.0,,,,
+158,,,Bolivia,BO,,,,,119.0,2.8,260000.0,
+159,,,Brunei,BN,CTS,0.0,0.0,0.0,137.0,1.4,5400.0,
+160,,,Cape Verde,CV,,,,,96.0,5.4,9500.0,
+161,,,"Congo, Dem Rep",CD,UN-PKO,33.2,248.0,1.56,137.0,1.4,800000.0,
+162,,,C™te d«Ivoire,CI,,,,,124.0,2.4,400000.0,
+163,,,East Timor,TL,,,,,177.0,0.3,3000.0,
+164,,,England and Wales,1,CTS/NSO,6.6,41.0,0.07,88.0,6.2,3400000.0,
+165,,,Hong Kong,HK,CTS,0.0,0.0,0.0,,,,
+166,,,Iran,IR,,,,,79.0,7.3,3500000.0,
+167,,,"Korea, North",KP,,,,,164.0,0.6,130000.0,
+168,,,"Korea, South",KR,WHO-MDB,1.7,14.0,0.03,149.0,1.1,510000.0,
+169,,,Kosovo,XK,,,,,30.0,19.5,415000.0,
+170,,,Laos,LA,,,,,145.0,1.2,71000.0,
+171,,,Macedonia,MK,CTS/Ministry of Interior,62.5,25.0,1.21,20.0,24.1,490000.0,
+172,,,Moldova,MD,CTS,3.3,8.0,0.22,83.0,7.1,300000.0,
+173,,,Monaco,MC,CTS,0.0,0.0,0.0,,,,
+174,,,Northern Ireland,2,CTS,4.5,5.0,0.28,25.0,21.9,380000.0,
+175,,,Puerto Rico,PR,WHO-MDB,94.8,692.0,18.3,,,,
+176,,,Russia,RU,,,,,68.0,8.9,12750000.0,
+177,,,Scotland,3,,,,,93.0,5.5,280000.0,
+178,,,Somalia,SO,,,,,66.0,9.1,750000.0,
+179,,,Syria,SY,,,,,112.0,3.9,735000.0,
+180,,,Taiwan,TW,Ministry of Justice,15.9,128.0,0.56,106.0,4.4,725000.0,
+181,,,Tanzania,TZ,,,,,137.0,1.4,550000.0,
+182,,,Venezuela,VE,NGO,79.5,11115.0,38.97,59.0,10.7,2850000.0,
+183,,,Vietnam,VN,CTS,52.9,834.0,0.99,128.0,1.7,1100000.0,
+184,,,West Bank & Gaza,PS,CTS,72.4,105.0,2.95,118.0,3.4,125000.0,
