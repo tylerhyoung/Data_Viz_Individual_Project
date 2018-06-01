@@ -7,4 +7,4 @@ This project will consist of:
   1. Problem Statement
   2. First Version of Redesign
   3. First Version of Deception
-  4. Revised Versions
+  4. Final Products(Revised Versions)
