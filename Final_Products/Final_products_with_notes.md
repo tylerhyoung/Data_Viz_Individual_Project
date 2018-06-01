@@ -16,6 +16,10 @@ Originally I graphed all the countries on three separate charts based on whether
 
 Again I added the high level summary at the top to describe where the story goes next, and a caption at the bottom citing the sources and qualifiers. I realize in all my first versions there are no citiations or qualifying captions which would destroy any credibility and faith in the charts being true to some data. In the article's original chart, I did not like the stacked bar chart because it was easy to see the U.S. was similar in total crime, but very hard to see that they are an outlier in firearm murders. So I decided to split the data into two graphs and sort decending for both. I substituted greyscale for color  because color really wasn't adding much and this way I could guarantee that no matter what medium it is rendered on, the charts would highlight the one country that I am telling a story about, which is the United States. I also filtered the countries down so the list wasn't as long, making it easier to read on a smaller device, but more importantly I chose the same countries from the top HDI rank list used in the previous data product to keep some continuity throughout. This was something that the Vox article didn't do because the got the charts from multiple sources. 
 
+#### Data Product 3 "The Benefits of Gun Control"
+
+Once again I added the captions both at the top and bottom, giving a high level description to wrap up the story and cite the data sources, neither of which were in the first version. Additionally I removed color from the graph because the color was saying the same thing as the x-axis and I already wanted to try and show the amount of child safety laws a state had by the size of their dot. I think having multiple legends in the first version, one for color and another for size, made the graph seem more complicated that it needed to be and reduced its clarity. I also reduced the number of categories for size down from 7 to 4 with the goal of making it easier to understand and read.
+
 # Deceptive Version
 
 
