@@ -1,7 +1,10 @@
-# Redesign Version
-
 **Please find the three redesigned visualizations on this public tableau story:**
 <https://public.tableau.com/profile/tyler.young#!/vizhome/Tyler_Young_Revised_Redesign_Final/FinalRedesignGunViolenceStory>
+
+**Please find the three deceptive visualizations on this public tableau story:**
+<https://public.tableau.com/profile/tyler.young#!/vizhome/Tyler_Young_Deceptive_Revised_Version/DeceptiveStory?publish=yes>
+
+# Redesign Version
 
 ## Critique and 'making of' thoughts
 
@@ -22,8 +25,7 @@ Once again I added the captions both at the top and bottom, giving a high level 
 
 # Deceptive Version
 
-**Please find the three deceptive visualizations on this public tableau story:**
-<https://public.tableau.com/profile/tyler.young#!/vizhome/Tyler_Young_Deceptive_Revised_Version/DeceptiveStory?publish=yes>
+## Critique and 'making of' thoughts
 
 Similar to the submission of the redesigned data products, I used Tableau to make a "story" portraying the opposite side that guns in America are not a problem and used tactics to make deceptive visualizations that do not tell the whole truth.
 
