@@ -60,9 +60,7 @@ Using the “2007_world_guns.csv” file I was able to create a scatter plot in 
 “2007_world_guns.csv” was loaded into Tableau.‘Firearms per 100’ was put on columns and ‘Homicides per 100’ on rows. I renamed the axis and set a title. I also filtered out null values and dragged "country" to label and set a filter on HDI rank from 1-100. Graphed the trendline and created a dashboard with a caption beneath citing the data and qualifying it. Finally I created a story and put this on slide 1 with a high level caption to start the story and a title for the story.
 
 ### Data Product 2: "U.S. Firearm Manufacturing and Homicide Rates"
-
-
-
+Load the “homicide_rate_vs_firearms_manufactured.csv” into Tableau. I dragged 'Years' to columns and ‘Death Rate Per 100k’, ‘Firearm Manufacturing Rate Per 1k’ to the rows. I changed the settings so it would be graphed on the same axis. Renaming the axis and labeling the lines with their names. I also filtered down on the years from 1995-2013 and fixed the y-axis on the right to go from 3-7. Then I created a dashboard to resize the chart, give it a title and citation caption at the bottom and then added it to slide 2 in the story with a descriptive caption at the top.
 
 ### Data Product 3: "Without Guns, Simple Suicide Methods Still Available"
 “Illinois Suicide Distribution 90-97.csv” was loaded into Tableau. Columns "Pct Fatal" renamed to "Fatal". I then created a calculated field for "Not Fatal" just 100-"Fatal". In sheet, I selected ‘Pie’ from Marks drop down field. Dragged Suicide Method to Columns and ‘Measure Values’ to Angle removing all measure values except ‘Fatal’ and ‘Not Fatal’. Then I dragged ‘Measure Values’ to Color and set to ‘Custom Diverging’ with 2 steps. Set colors to grey and black. Next I moved ‘Suicide Method’ to Filters and selected only ‘Firearms’, ‘Crash/jump’, and ‘Suffocation’.Then I dragged the 'Measure names' and 'Measure values' to labels. Finally I created a dashboard, changed the title, added a citation caption below and put it on the last slide in the story with a descriptive caption above.
